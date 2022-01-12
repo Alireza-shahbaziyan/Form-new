@@ -1,0 +1,83 @@
+body{
+    font-family: 'Barlow', sans-serif;
+    background-color: #C4C4C4;
+    padding-top: 30px;
+    box-sizing: border-box;
+}
+.form-ew{
+    width: 326px;
+    height: 550px;
+    background-color: white;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+    border-radius: 15px;
+    
+}
+img{
+    border-radius: 50%;
+    width: 200px;
+    margin: 0 auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+}
+.form label{
+    font-size: 20px;
+}
+
+#but-submit{
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;
+    border: none;
+    text-align: center;
+    padding:15px 25px ;
+    border-radius: 10px;
+    background-color: #0E5FFE;
+    color: white;
+    display:block;
+    width: 100%;
+}
+div .password {
+    margin-top:20px ;
+}
+div .username {
+    margin-top:20px ;
+}
+div #usw{
+
+    font-size: 19px;
+    padding: 10px 20px;
+    display:block;
+    border: none;
+    background-color: #C4C4C4;
+    
+}
+ #allah{
+    font-size: 19px;
+    padding: 10px 20px;
+    display:block;
+    border: none;
+    background-color: #C4C4C4;
+}
+div .hhh{
+    font-size: 20%;
+}
+.option{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5px 0px;
+    margin-bottom: 30px;
+    font-size: 15px;
+    margin-top: 75px;
+    
+}
+ div .forget-password{
+    font-size: 15px;
+    margin-left: 12px;
+    
+}
